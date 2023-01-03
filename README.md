@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @royR123
+- 👋 Hi, I’m Ritik Roy.
 - 👀 I’m interested in SDE roles
 <!-- - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
